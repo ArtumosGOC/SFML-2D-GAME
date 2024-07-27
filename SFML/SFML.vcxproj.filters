@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fonts">
+      <UniqueIdentifier>{29f4bc9a-9b1d-4b09-8d48-4ef282e443e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Win_">
+      <UniqueIdentifier>{219f4d62-bf26-4188-b948-b4295638ad87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Win_">
+      <UniqueIdentifier>{4081bc23-30c5-413f-aa3c-25f44a09978a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Game">
+      <UniqueIdentifier>{12e4111d-2a69-48ea-8422-e80b8ae07098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Game">
+      <UniqueIdentifier>{f15c2b1f-06e4-458f-8cdd-bedcf93f746c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_SFML.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="falling_square.cpp">
+      <Filter>Arquivos de Origem\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="WinClass.cpp">
+      <Filter>Arquivos de Origem\Win_</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="falling_square.h">
+      <Filter>Arquivos de Cabeçalho\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="WinClass.h">
+      <Filter>Arquivos de Cabeçalho\Win_</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Fonts\ConnectionIii-Rj3W.otf">
+      <Filter>Fonts</Filter>
+    </Font>
+    <Font Include="Fonts\MRROBOT.ttf">
+      <Filter>Fonts</Filter>
+    </Font>
+    <Font Include="Fonts\FetteClassicUNZFraktur.ttf">
+      <Filter>Fonts</Filter>
+    </Font>
+    <Font Include="Fonts\Minecraft.ttf">
+      <Filter>Fonts</Filter>
+    </Font>
+    <Font Include="Fonts\super_smash_4_1_by_pokemon_diamond-d7zxu6d.ttf">
+      <Filter>Fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

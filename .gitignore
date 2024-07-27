@@ -1,13 +1,5 @@
 # Prerequisites
 *.d
-*.ipch
-*.vsidx
-*.vcxproj.*
-*.vcxproj
-*.dylib
-*.suo
-*.json
-*.db
 
 # Compiled Object files
 *.slo
@@ -22,7 +14,7 @@
 *.tlog
 *.rar
 *.txt
-*.ilk
+
 
 # Precompiled Headers
 *.gch

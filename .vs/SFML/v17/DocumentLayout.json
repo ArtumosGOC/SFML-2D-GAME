@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artum\\source\\repos\\SFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75863060-76DC-42B1-8A67-C998CC68F432}|SFML\\SFML.vcxproj|C:\\Users\\artum\\source\\repos\\SFML\\SFML\\WinClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75863060-76DC-42B1-8A67-C998CC68F432}|SFML\\SFML.vcxproj|solutionrelative:SFML\\WinClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75863060-76DC-42B1-8A67-C998CC68F432}|SFML\\SFML.vcxproj|C:\\Users\\artum\\source\\repos\\SFML\\SFML\\Main_SFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75863060-76DC-42B1-8A67-C998CC68F432}|SFML\\SFML.vcxproj|solutionrelative:SFML\\Main_SFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinClass.h",
+              "DocumentMoniker": "C:\\Users\\artum\\source\\repos\\SFML\\SFML\\WinClass.h",
+              "RelativeDocumentMoniker": "SFML\\WinClass.h",
+              "ToolTip": "C:\\Users\\artum\\source\\repos\\SFML\\SFML\\WinClass.h",
+              "RelativeToolTip": "SFML\\WinClass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-27T05:10:05.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main_SFML.cpp",
+              "DocumentMoniker": "C:\\Users\\artum\\source\\repos\\SFML\\SFML\\Main_SFML.cpp",
+              "RelativeDocumentMoniker": "SFML\\Main_SFML.cpp",
+              "ToolTip": "C:\\Users\\artum\\source\\repos\\SFML\\SFML\\Main_SFML.cpp",
+              "RelativeToolTip": "SFML\\Main_SFML.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-27T00:50:10.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
