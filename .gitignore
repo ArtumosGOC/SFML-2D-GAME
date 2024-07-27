@@ -1,11 +1,28 @@
 # Prerequisites
 *.d
+*.ipch
+*.vsidx
+*.vcxproj.*
+*.vcxproj
+*.dylib
+*.suo
+*.json
+*.db
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+*.tlo
+*.idb
+*.pdb
+*.log
+*.recipe
+*.tlog
+*.rar
+*.txt
+*.ilk
 
 # Precompiled Headers
 *.gch
